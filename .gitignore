@@ -1,0 +1,41 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.log
+*.sqlite3
+
+# Local virtual environments
+.venv/
+venv/
+env/
+Scripts/
+Include/
+Lib/
+Lib64/
+pyvenv.cfg
+share/
+etc/
+bin/
+
+# Tool caches & build artifacts
+.mypy_cache/
+.pytest_cache/
+pip-wheel-metadata/
+build/
+dist/
+
+# User-managed configuration & data
+config.json
+Documents/
+data/
+*.db
+*.faiss
+*.chroma
+.streamlit/
+
+# IDE/editor settings
+.idea/
+.vscode/
+

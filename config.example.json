@@ -1,0 +1,31 @@
+{
+  "embedding_models": [
+    {
+      "label": "Nomic Embed Text",
+      "value": "nomic-embed-text"
+    },
+    {
+      "label": "MXBAI Embed Large",
+      "value": "mxbai-embed-large"
+    },
+    {
+      "label": "MiniLM All",
+      "value": "all-minilm"
+    }
+  ],
+  "llm_models": [
+    {
+      "label": "Phi-3 Mini",
+      "value": "phi3:mini"
+    },
+    {
+      "label": "Llama 3",
+      "value": "llama3"
+    },
+    {
+      "label": "Qwen 3 1.7B",
+      "value": "qwen3:1.7b"
+    }
+  ]
+}
+
